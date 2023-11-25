@@ -8,7 +8,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renzocanare" alt="renzocanare" /></a> </p> -->
 - 🔭 I’m currently working on [my personal portfolio](https://github.com/renzocanare/portfolio-website).
 
-- 🌱 I’m currently exploring **Machine Learning, Natural Language processing and front-end development through React.js**.
+- 🌱 I’m currently exploring **Machine Learning, Natural Language processing and front-end development**.
 
 - 👨‍💻 All of my projects are available at [https://rivera.fun/projects](https://rivera.fun/projects).
 

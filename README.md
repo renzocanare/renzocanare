@@ -7,11 +7,12 @@
 
 <h2>About Me</h2>
 
-- 🔭 I’m currently working on an [MTG Card Price Comparison website](https://github.com/renzocanare/mtg-price-comparison) and a Sentiment-driven Trading Bot.
+- 🔭 I’m currently working on an MTG Card Price Comparison website and a Sentiment-driven Trading Bot.
+  - They're currently private projects, but feel free to contact me for more information!
 
-- 🌱 I’m currently exploring **Machine Learning, Natural Language processing and Full Stack development**.
+- 🌱 I’m currently exploring **Machine Learning, Natural Language Processing and Full Stack Development**.
 
-- 👨‍💻 All of my projects are available at [https://rivera.fun/projects](https://rivera.fun/projects).
+- 👨‍💻 A list of my projects are available at [https://rivera.fun/projects](https://rivera.fun/projects).
 
 - 💬 Ask me about **how to keep pet shrimp!**
 
